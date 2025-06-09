@@ -1,0 +1,248 @@
+Documento contenente le
+informazioni chiave
+Scopo
+Il presente documento contiene informazioni chiave relative a questo prodotto d’investimento. Non si tratta di un documento promozionale.
+Le informazioni, prescritte per legge, hanno lo scopo di aiutarvi a capire le caratteristiche, i rischi, i costi, i guadagni e le perdite potenziali di
+questo prodotto e di aiutarvi a fare un raffronto con altri prodotti d’investimento.
+State per acquistare un prodotto che non è semplice e può essere di difficile comprensione.
+Prodotto
+Nome del prodotto Autocallable Barrier Worst-of Phoenix Certificate correlato a un paniere di azioni ordinarie
+Identificatore del prodotto Codice ISIN: IT0006754557
+Ideatore di PRIIP Marex Financial (www.marexfp.com)
+Per ulteriori informazioni si prega di chiamare il numero +44 (0)208-050-3561.
+Autorità competente dell'ideatore di PRIIP Autorizzato e regolamentato dalla Financial Conduct Authority del Regno Unito
+Data e ora di realizzazione del documento
+contenente le informazioni chiave
+24.07.2024 07:05 ora di Roma
+1. Cos'è questo prodotto?
+Tipo Certificates disciplinati dal diritto inglese
+Termine
+Obiettivi
+(I termini che compaiono in
+grassetto in questa sezione
+sono descritti in dettaglio nella
+tabella qui sotto riportata.)
+Il prodotto è a scadenza fissa e scadrà il 25 febbraio 2025, soggetto a rimborso anticipato.
+Il prodotto è stato progettato per rimborsare un importo nella forma di (1) pagamenti condizionati della cedola e (2) un pagamento in denaro all'estinzione
+del prodotto. La tempistica e l'importo di tali pagamenti dipenderanno dalla performance dei sottostanti. Nel caso in cui, alla data di scadenza, il prezzo di
+riferimento finale del sottostante con rendimento peggiore sia sceso fino ad un valore pari al o al di sotto del relativo prezzo della barriera, il prodotto
+potrebbe rimborsare un importo inferiore all'ammontare nominale del prodotto potendo il rimborso risultare anche pari a zero.
+Estinzione anticipata successiva ad un rimborso anticipato: Il prodotto si estinguerà prima della data di scadenza, nel caso in cui a qualsiasi data
+di osservazione per il rimborso anticipato il prezzo di riferimento del sottostante con il rendimento peggiore sia superiore al relativo prezzo
+della barriera per il rimborso anticipato. A qualsiasi tale estinzione anticipata l'investitore riceverà alla data di pagamento dell'importo di rimborso
+anticipato immediatamente successiva, in aggiunta a qualsiasi pagamento della cedola finale, un pagamento in denaro di importo pari al pagamento
+dell'importo di rimborso anticipato di 1.000,00 EUR. Nessun pagamento della cedola sarà effettuato successivamente a tale data di pagamento
+dell'importo di rimborso anticipato.
+Cedola: Nel caso in cui il prodotto non sia già stato estinto anticipatamente, ad ogni data di pagamento della cedola l'investitore riceverà un pagamento
+della cedola di 16,92 EUR assieme a qualsiasi pagamento della cedola precedentemente maturato, ma tuttora non corrisposto nel caso in cui il prezzo di
+riferimento del sottostante con rendimento peggiore sia pari o superiore al relativo prezzo della barriera della cedola alla data di osservazione della
+cedola immediatamente precedente. Nel caso in cui tale condizione non sia soddisfatta, l'investitore non riceverà alcun pagamento della cedola a tale data
+di pagamento della cedola.
+Estinzione alla data di scadenza: Nel caso in cui il prodotto non si sia estinto anticipatamente, alla data di scadenza, l'investitore riceverà:
+1. nel caso in cui il prezzo di riferimento finale del sottostante con performance peggiore sia superiore al relativo prezzo della barriera, un
+pagamento in denaro di importo pari a 1.000,00 EUR; o
+2. nel caso in cui il prezzo di riferimento finale del sottostante con performance peggiore sia pari o inferiore al relativo prezzo della
+barriera, un pagamento in denaro il cui importo sarà direttamente collegato alla performance del sottostante con performance peggiore.
+L'importo di tale pagamento in denaro sarà pari a (i) l'ammontare nominale del prodotto per (ii) (A) il prezzo di riferimento finale del
+sottostante con performance peggiore diviso per (B) il relativo prezzo di esercizio.
+.
+Ai sensi dei termini e condizioni del prodotto, alcune delle date sotto specificate saranno modificate nel caso in cui non cadano in un giorno lavorativo o in
+un giorno di negoziazione (a seconda dei casi). Ogni modifica potrebbe avere un impatto sul rendimento del prodotto, ove esistente.
+I termini e le condizioni del prodotto prevedono inoltre che nel caso in cui si verifichino alcuni eventi straordinari (1) potrebbero essere effettuati degli
+aggiustamenti sul prodotto e/o (2) l'emittente potrebbe estinguere anticipatamente il prodotto. Tali eventi sono specificati nei termini e nelle condizioni
+del prodotto e riguardano principalmente i sottostanti, il prodotto e l'emittente. Nel caso in cui si verifichi tale estinzione anticipata, è probabile che il
+rendimento (ove esistente), sia diverso da quello indicato negli scenari sopra descritti e potrebbe essere inferiore al capitale investito.
+All'acquisto di questo prodotto nel corso della sua durata, il prezzo di acquisto potrebbe includere le cedole maturate su base proporzionale.
+L'investitore non ha alcun diritto di riscuotere dei dividendi derivanti da qualsiasi sottostante né di qualsiasi ulteriore diritto connesso a tale sottostante (ad
+es. i diritti di voto).
+.
+Sottostanti Azioni ordinarie di PayPal Holdings Inc.
+(PYPL; Codice ISIN: US70450Y1038;
+Bloomberg: PYPL UW Equity; RIC:
+PYPL.OQ), American Express Company
+(AXP; Codice ISIN: US0258161092;
+Bloomberg: AXP UN Equity; RIC: AXP.N),
+Block Inc. (SQ; Codice ISIN: US8522341036;
+Bloomberg: SQ UN Equity; RIC: SQ.N)
+Data di valutazione iniziale 13 febbraio 2023
+Mercato sottostante Mercato azionario Data di valutazione finale 13 febbraio 2025
+Ammontare nominale del
+prodotto
+1.000,00 EUR Data di scadenza / termine 25 febbraio 2025
+Valuta del prodotto Euro (EUR) Date di osservazione per il
+rimborso anticipato
+Il 13º giorno di calendario di ogni mese a
+partire da giugno 2023 (incluso) fino alla data
+di valutazione finale (inclusa)
+Valute del sottostante • PYPL: Dollaro statunitense (USD)
+• AXP: USD
+• SQ: USD
+Prezzi della barriera per il
+rimborso anticipato
+Alla prima data di osservazione per il
+rimborso anticipato, il prezzo iniziale
+della barriera per il rimborso anticipato;
+successivamente diminuito di 1,00 punti
+percentuali ad ogni data di osservazione
+per il rimborso anticipato successiva
+Data di emissione 9 febbraio 2023 Prezzo della barriera per il
+rimborso anticipato iniziale
+100,00% del prezzo di riferimento iniziale
+Prezzo di riferimento iniziale • PYPL: 79,45 USD
+• AXP: 181,33 USD
+• SQ: 76,82 USD
+Data di pagamento
+dell'importo di rimborso
+anticipato
+Il giorno che cade 7 giorni lavorativi a
+seguito della relativa data di osservazione
+per il rimborso anticipato
+Pagina 1 DocID: / 944dd051-4555-4398-a335-3b6848117689
+Prezzo di esercizio 100,00% del prezzo di riferimento iniziale Date di osservazione della
+cedola
+Il 13º giorno di calendario di ogni mese a
+partire da marzo 2023 (incluso) fino alla data
+di valutazione finale (inclusa)
+Prezzo della barriera 60,00% del prezzo di riferimento iniziale Prezzo della barriera della
+cedola
+60,00% del prezzo di riferimento iniziale
+Prezzo di riferimento Il prezzo di chiusura di un sottostante
+secondo la fonte di riferimento rilevante
+Date di pagamento della
+cedola
+Il giorno che cade 7 giorni lavorativi a
+seguito della relativa data di osservazione
+della cedola.
+Fonti di riferimento • PYPL: NASDAQ GS
+• AXP: New York Stock Exchange
+• SQ: New York Stock Exchange
+Sottostante con rendimento
+peggiore
+ad una data determinata, il sottostante
+con rendimento peggiore tra il prezzo
+di riferimento iniziale e il prezzo di
+riferimento rilevante
+Prezzo di riferimento finale Il prezzo di riferimento alla data di
+valutazione finale
+.
+Investitore al dettaglio
+a cui si intende
+commercializzare il
+prodotto
+Il prodotto è destinato ad essere offerto agli investitori al dettaglio che soddisfino tutti i requisiti di seguito riportati:
+1. abbiano la capacità di prendere decisioni d'investimento consapevoli attraverso la conoscenza sufficiente e la comprensione del prodotto e
+degli specifici rischi e benefici ad esso associati, indipendentemente oppure avvalendosi di una consulenza professionale, con esperienza
+negli investimenti in prodotti simili e/oppure nella detenzione dei prodotti simili che forniscono una simile esposizione al mercato;
+2. mirino ad un profitto, si aspettino un andamento dei sottostanti tale da generare un rendimento positivo e abbiano un orizzonte temporale di
+investimento breve e siano consapevoli che il prodotto si potrebbe estinguere anticipatamente;
+3. siano in grado di sostenere eventuali perdite superiori al proprio investimento iniziale, coerentemente con il profilo di rimborso del prodotto alla
+scadenza (rischio di mercato);
+4. accettino il rischio che l'emittente possa non essere in grado di pagare o di adempiere ai propri obblighi derivanti dal prodotto,
+indipendentemente dal profilo di rimborso del prodotto stesso (rischio di credito);
+5. al fine di ottenere rendimenti potenziali, siano disposti ad accettare un livello di rischio di 6 su 7, che riflette il rischio secondo più alto (come
+indicato nell'indicatore sintetico di rischio riportato di seguito che tiene conto sia del rischio di mercato che del rischio di credito).
+2. Quali sono i rischi e qual è il potenziale rendimento?
+Indicatore di rischio
+Rischio più basso Rischio più alto
+L'indicatore di rischio presuppone che il prodotto sia mantenuto fino al 25 febbraio 2025. Il rischio effettivo può variare
+in misura significativa in caso di disinvestimento in una fase iniziale e la somma rimborsata potrebbe essere minore.
+Potrebbe non essere possibile vendere facilmente il prodotto o potrebbe essere possibile vendere soltanto a un prezzo
+che incide significativamente sull'importo incassato.
+L'indicatore sintetico di rischio è un'indicazione orientativa del livello di rischio di questo prodotto rispetto ad altri prodotti. Esso esprime la probabilità che il
+prodotto subisca perdite monetarie a causa di movimenti sul mercato o a causa della nostra incapacità di pagarvi quanto dovuto.
+Abbiamo classificato questo prodotto al livello 6 su 7, che corrisponde alla classe di rischio seconda più alta. Ciò significa che le perdite potenziali dovute
+alla performance futura del prodotto sono classificate nel livello alto e che è molto improbabile che le cattive condizioni di mercato influenzino la nostra
+capacità di pagarvi quanto dovuto.
+L'inflazione erode il valore di acquisto del denaro nel corso del tempo. Ciò può comportare un calo in termini reali di qualsiasi capitale rimborsato o di
+qualsiasi interesse che può essere pagato all'investitore nell'ambito dell'investimento.
+Questo prodotto non comprende alcuna protezione dalla performance futura del mercato; pertanto potreste perdere il vostro intero investimento o parte di
+esso.
+Nel caso in cui non fossimo in grado di pagarvi quanto dovuto, potreste perdere il vostro intero investimento.
+Per informazioni più dettagliate su tutti i rischi relativi al prodotto, si rinvia alle sezioni rischio del prospetto e agli eventuali supplementi al medesimo, come
+precisato di seguito nella sezione "7. Altre informazioni rilevanti".
+Scenari di performanceIl possibile rimborso dipenderà dall’andamento futuro dei mercati, che è incerto e non può essere previsto con esattezza.
+Gli scenari riportati sono illustrazioni basate sui risultati passati e su alcune ipotesi. Nel futuro i mercati potrebbero avere un andamento molto
+diverso.
+Periodo di detenzione raccomandato: Fino al richiamo o alla scadenza del prodotto
+Può essere diverso in ciascuno scenario ed è
+indicato nella tabella
+Esempio di investimento: 10.000 EUR
+Scenari In caso di uscita per richiamo o alla scadenza
+Minimo Non esiste un rendimento minimo garantito. Potreste perdere il vostro intero investimento o
+parte di esso.
+Stress Possibile rimborso al netto dei costi 438 EUR
+(fine del prodotto dopo 7 mesi) Rendimento percentuale (non annualizzato) -95,62%
+Sfavorevole Possibile rimborso al netto dei costi 4.813 EUR
+(fine del prodotto dopo 7 mesi) Rendimento percentuale (non annualizzato) -51,87%
+Moderato Possibile rimborso al netto dei costi 10.902 EUR
+(fine del prodotto dopo 2 mesi) Rendimento percentuale (non annualizzato) 9,02%
+Favorevole Possibile rimborso al netto dei costi 11.780 EUR
+(fine del prodotto dopo 7 mesi) Rendimento percentuale (non annualizzato) 17,80%
+.
+Lo scenario favorevole, lo scenario moderato, lo scenario sfavorevole e quello di stress rappresentano i risultati possibili che sono stati calcolati sulla base
+di simulazioni che utilizzano la performance passata dei sottostanti per un periodo fino a 5 anni. Nel caso di rimborso anticipato, è stato ipotizzato che non
+si sia verificato alcun reinvestimento. Lo scenario di stress indica quale potrebbe essere l’importo rimborsato in circostanze di mercato estreme. Questo
+prodotto non è facilmente liquidabile. In caso di uscita da un investimento prima del periodo di detenzione raccomandato potrebbe essere necessario
+sostenere costi supplementari.
+Le cifre riportate comprendono tutti i costi del prodotto in quanto tale, ma possono non comprendere tutti i costi da voi pagati al consulente o al distributore.
+Le cifre non tengono conto della vostra situazione fiscale personale, che può incidere anch'essa sull'importo del rimborso.
+Pagina 2 DocID: / 944dd051-4555-4398-a335-3b6848117689
+3. Cosa accade se Marex Financial non è in grado di corrispondere quanto dovuto?
+State assumendo il rischio che l'emittente possa non essere in grado di adempiere alle obbligazioni assunte in relazione al prodotto, ad esempio a causa di fallimento o nel caso di una
+decisione ufficiale per l'avvio di un'azione di risoluzione. Ciò potrebbe avere un impatto negativo significativo sul valore del prodotto e potrebbe comportare la perdita di una parte o
+dell'intero capitale investito. Il prodotto non è coperto da nessun sistema di protezione dei depositi.
+4. Quali sono i costi?
+La persona che fornisce consulenza sul PRIIP o che lo vende potrebbe addebitare altri costi, nel qual caso fornirà informazioni su tali costi, illustrandone l’impatto sull’investimento.
+Andamento dei costi
+nel tempo
+Le tabelle mostrano gli importi prelevati dall’investimento per coprire diversi tipi di costi. Tali importi dipendono dall’entità dell’investimento e dalla durata
+della detenzione del prodotto. Gli importi sono qui riportati a fini illustrativi e si basano su un importo esemplificativo dell’investimento e su diversi periodi di
+investimento.
+La durata di questo prodotto è incerta in quanto può estinguersi in momenti diversi a seconda dell’evoluzione del mercato. Gli importi qui indicati prendono
+in considerazione due diversi scenari (richiamo e scadenza anticipata). In caso di uscita prima della conclusione del prodotto, in aggiunta agli importi qui
+indicati possono essere addebitati costi di uscita.
+Si è ipotizzato quanto segue:
+• 10.000 EUR di investimento
+• performance del prodotto coerenti con ciascun periodo di detenzione indicato.
+Se il prodotto è richiamato alla prima
+data possibile, il 22 agosto 2024
+Se il prodotto raggiunge la scadenza
+Costi totali 522 EUR 522 EUR
+Incidenza dei costi* 5,91% 6,49%
+.
+*Dimostra l’effetto dei costi su un periodo di detenzione inferiore a un anno. Questa percentuale non può essere direttamente confrontata con i dati relativi
+all’incidenza dei costi forniti per altri PRIIP.
+Una parte dei costi può essere condivisa con la persona che vende il prodotto per coprire i servizi che fornisce. L’importo vi verrà comunicato in seguito.
+Composizione dei costi.
+Costi una tantum di ingresso o di uscita In caso di uscita
+dopo 7 mesi
+Costi di ingresso 5,22% dell'importo pagato al momento della sottoscrizione dell'investimento. Questi costi sono già
+inclusi nel prezzo pagato.
+522 EUR
+Costi di uscita Non addebitiamo una commissione di uscita per questo prodotto, ma la persona che vende il
+prodotto può farlo.
+0 EUR
+.
+5. Per quanto tempo dovrei detenerlo? Posso ritirare il capitale prematuramente?
+Periodo di detenzione raccomandato: 7 mesi
+Il prodotto è finalizzato a rimborsare l'importo descritto nella sezione "1. Cos'è questo prodotto?". Tuttavia, ciò vale solamente nel caso in cui il prodotto venga detenuto fino alla data di
+scadenza. Pertanto, si raccomanda di detenerlo fino al 25 febbraio 2025 (data di scadenza).
+Questo prodotto non garantisce la possibilità di disinvestimento, se non tramite la vendita del prodotto (1) in borsa (nel caso in cui il prodotto sia negoziato in borsa) oppure (2) fuori borsa,
+qualora vi sia un'offerta per tale prodotto. Salvo diversamente specificato nei costi di uscita (si veda la sezione "4. Quali sono i costi?" di cui sopra), nessuna commissione o penale sarà
+addebitata dall'emittente per tali transazioni, tuttavia potrebbe essere applicata una commissione di esecuzione da parte dell’intermediario, se del caso. Vendendo il prodotto prima della
+scadenza, l'investitore potrebbe ricevere un importo inferiore all'importo che si sarebbe ricevuto detenendo il prodotto fino alla data di scadenza.
+.
+Quotazione in borsa EuroTLX Quotazione del prezzo Unità
+Lotto minimo di negoziazione 1 unità
+.
+In caso di condizioni di mercato volatili o eccezionali, o in caso di problemi tecnici/malfunzionamenti, l'acquisto e/o la vendita del prodotto possono essere temporaneamente impediti e/o
+sospesi o anche risultare del tutto impossibili.
+6. Come presentare reclami?
+Tutti i reclami relativi alla condotta della persona che fornisce consulenza sul prodotto o che vende il prodotto, possono essere presentati direttamente a tale persona.
+Qualsiasi reclamo riguardante il prodotto o la condotta dell'ideatore del prodotto può essere presentato per iscritto al seguente indirizzo: Marex Financial, 155 Bishopsgate, London, EC2M
+3TQ, United Kingdom, per email a: complaints@marexfp.com oppure tramite il seguente sito web: www.marexfp.com.
+7. Altre informazioni rilevanti
+Qualsiasi documentazione aggiuntiva in relazione al prodotto, e, in particolare, alla documentazione relativa al programma dell'emissione, qualsiasi supplemento a ciò e ai termini e
+condizioni del prodotto sono pubblicati su www.certificati.marex.com, in conformità ai requisiti pertinenti stabiliti dalla legge. Anche questi documenti sono disponibili gratuitamente da
+Marex Financial, 155 Bishopsgate, London, EC2M 3TQ, United Kingdom. Per ulteriori informazioni si prega di chiamare il numero +44 (0)208-050-8636.
+Pagina 3 DocID: / 944dd051-4555-4398-a335-3b6848117689
